@@ -1,28 +1,31 @@
 class Solution {
 public:
     int maxUniqueSplit(string s) {
+        int n = s.length();
+        int maxCount = 0;
         unordered_set<string> ht;
-        return backtrack(s, 0, ht);
+        backtracking(s, 0, ht, &maxCount);
+        return maxCount;
     }
     
-    int backtrack(const string& s, int start, unordered_set<string>& used) {
-        if (start == s.length()) {
-            return 0;
+    void backtracking(string s, int index, unordered_set<string> ht, int *mC){
+        if (ht.size() + (s.size() - index) <= *mC) return;
+
+        if(index == s.length()){
+            int n = ht.size();
+            *mC = max(*mC, n);
+            return;
         }
-        
-        int maxSplit = 0;
-        
-        string current = "";
-        for (int i = start; i < s.length(); ++i) {
-            current += s[i];
-            if (used.find(current) == used.end()) {
-                used.insert(current);
-                maxSplit = max(maxSplit, 1 + backtrack(s, i + 1, used));
-                used.erase(current);
+        string temp = "";
+        for(int i = index; i < s.length(); i++){
+            temp = temp + s[i];
+            if(ht.find(temp) == ht.end()){
+                ht.insert(temp);
+                backtracking(s, i + 1, ht, mC);
+                ht.erase(temp);
             }
         }
-        
-        return maxSplit;
+        return;
     }
 
 };
