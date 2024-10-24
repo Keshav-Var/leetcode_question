@@ -32,6 +32,7 @@ Questions I solved on leetcode.
 ## Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Keshav-Var/leetcode_question/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -44,5 +45,10 @@ Questions I solved on leetcode.
 ## Binary Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Keshav-Var/leetcode_question/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Keshav-Var/leetcode_question/tree/master/0988-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
