@@ -6,6 +6,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Keshav-Var/leetcode_question/tree/master/1197-parsing-a-boolean-expression) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Keshav-Var/leetcode_question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Keshav-Var/leetcode_question/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Recursion
@@ -55,5 +56,14 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Keshav-Var/leetcode_question/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/2677-cousins-in-binary-tree-ii) |
+## Array
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
