@@ -66,9 +66,18 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Keshav-Var/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Trie
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Keshav-Var/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Keshav-Var/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
