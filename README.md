@@ -10,6 +10,7 @@ Questions I solved on leetcode.
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Keshav-Var/leetcode_question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Keshav-Var/leetcode_question/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2580-circular-sentence](https://github.com/Keshav-Var/leetcode_question/tree/master/2580-circular-sentence) |
 ## Recursion
 |  |
 | ------- |
