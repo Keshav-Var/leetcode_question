@@ -54,6 +54,7 @@ Questions I solved on leetcode.
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Keshav-Var/leetcode_question/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Questions I solved on leetcode.
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Keshav-Var/leetcode_question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Keshav-Var/leetcode_question/tree/master/3291-find-if-array-can-be-sorted) |
 ## Trie
 |  |
 | ------- |
@@ -95,4 +97,8 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2586-longest-square-streak-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Keshav-Var/leetcode_question/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
