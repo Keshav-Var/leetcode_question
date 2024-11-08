@@ -75,6 +75,7 @@ Questions I solved on leetcode.
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Keshav-Var/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1940-maximum-xor-for-each-query](https://github.com/Keshav-Var/leetcode_question/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Keshav-Var/leetcode_question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2586-longest-square-streak-in-an-array) |
@@ -102,10 +103,15 @@ Questions I solved on leetcode.
 ## Bit Manipulation
 |  |
 | ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/Keshav-Var/leetcode_question/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Keshav-Var/leetcode_question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Keshav-Var/leetcode_question/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Keshav-Var/leetcode_question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/Keshav-Var/leetcode_question/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
