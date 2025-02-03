@@ -89,6 +89,7 @@ Questions I solved on leetcode.
 | [2716-prime-subtraction-operation](https://github.com/Keshav-Var/leetcode_question/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Keshav-Var/leetcode_question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Keshav-Var/leetcode_question/tree/master/3291-find-if-array-can-be-sorted) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Keshav-Var/leetcode_question/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Trie
 |  |
