@@ -34,6 +34,7 @@ Questions I solved on leetcode.
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Keshav-Var/leetcode_question/tree/master/1364-tuple-with-same-product) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Keshav-Var/leetcode_question/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Keshav-Var/leetcode_question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Keshav-Var/leetcode_question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -81,6 +82,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1364-tuple-with-same-product](https://github.com/Keshav-Var/leetcode_question/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Keshav-Var/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Keshav-Var/leetcode_question/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Keshav-Var/leetcode_question/tree/master/1940-maximum-xor-for-each-query) |
@@ -126,6 +128,7 @@ Questions I solved on leetcode.
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Keshav-Var/leetcode_question/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Keshav-Var/leetcode_question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Keshav-Var/leetcode_question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Prefix Sum
