@@ -77,6 +77,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Keshav-Var/leetcode_question/tree/master/0988-flip-equivalent-binary-trees) |
+| [1300-critical-connections-in-a-network](https://github.com/Keshav-Var/leetcode_question/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -159,4 +160,12 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Keshav-Var/leetcode_question/tree/master/2232-adding-spaces-to-a-string) |
+## Graph
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Keshav-Var/leetcode_question/tree/master/1300-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Keshav-Var/leetcode_question/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
