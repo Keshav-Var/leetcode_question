@@ -39,6 +39,7 @@ Questions I solved on leetcode.
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Keshav-Var/leetcode_question/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Keshav-Var/leetcode_question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Keshav-Var/leetcode_question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/Keshav-Var/leetcode_question/tree/master/2434-design-a-number-container-system) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Keshav-Var/leetcode_question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -168,4 +169,16 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Keshav-Var/leetcode_question/tree/master/1300-critical-connections-in-a-network) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Keshav-Var/leetcode_question/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Keshav-Var/leetcode_question/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Keshav-Var/leetcode_question/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
