@@ -11,6 +11,7 @@ Questions I solved on leetcode.
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Keshav-Var/leetcode_question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Keshav-Var/leetcode_question/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Keshav-Var/leetcode_question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav-Var/leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Keshav-Var/leetcode_question/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/Keshav-Var/leetcode_question/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Keshav-Var/leetcode_question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -25,6 +26,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Keshav-Var/leetcode_question/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav-Var/leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Keshav-Var/leetcode_question/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Keshav-Var/leetcode_question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Keshav-Var/leetcode_question/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -32,6 +34,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Keshav-Var/leetcode_question/tree/master/1197-parsing-a-boolean-expression) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav-Var/leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
 | ------- |
