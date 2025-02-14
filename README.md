@@ -95,6 +95,7 @@ Questions I solved on leetcode.
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Keshav-Var/leetcode_question/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Keshav-Var/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Keshav-Var/leetcode_question/tree/master/1477-product-of-the-last-k-numbers) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Keshav-Var/leetcode_question/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Keshav-Var/leetcode_question/tree/master/1940-maximum-xor-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/Keshav-Var/leetcode_question/tree/master/2232-adding-spaces-to-a-string) |
@@ -150,6 +151,7 @@ Questions I solved on leetcode.
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Keshav-Var/leetcode_question/tree/master/1477-product-of-the-last-k-numbers) |
 | [1940-maximum-xor-for-each-query](https://github.com/Keshav-Var/leetcode_question/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
 |  |
@@ -159,6 +161,7 @@ Questions I solved on leetcode.
 ## Math
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Keshav-Var/leetcode_question/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Keshav-Var/leetcode_question/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Keshav-Var/leetcode_question/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
@@ -184,6 +187,7 @@ Questions I solved on leetcode.
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Keshav-Var/leetcode_question/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Keshav-Var/leetcode_question/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -195,4 +199,8 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Keshav-Var/leetcode_question/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Keshav-Var/leetcode_question/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
