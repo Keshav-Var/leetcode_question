@@ -54,6 +54,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Keshav-Var/leetcode_question/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Keshav-Var/leetcode_question/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Questions I solved on leetcode.
 | [1477-product-of-the-last-k-numbers](https://github.com/Keshav-Var/leetcode_question/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Keshav-Var/leetcode_question/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Keshav-Var/leetcode_question/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Keshav-Var/leetcode_question/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
 |  |
 | ------- |
