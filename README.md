@@ -54,6 +54,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Keshav-Var/leetcode_question/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Keshav-Var/leetcode_question/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Keshav-Var/leetcode_question/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
 |  |
@@ -97,6 +98,7 @@ Questions I solved on leetcode.
 | [1364-tuple-with-same-product](https://github.com/Keshav-Var/leetcode_question/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Keshav-Var/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Keshav-Var/leetcode_question/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Keshav-Var/leetcode_question/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Keshav-Var/leetcode_question/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Keshav-Var/leetcode_question/tree/master/1940-maximum-xor-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/Keshav-Var/leetcode_question/tree/master/2232-adding-spaces-to-a-string) |
