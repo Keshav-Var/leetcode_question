@@ -14,6 +14,7 @@ Questions I solved on leetcode.
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Keshav-Var/leetcode_question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav-Var/leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Keshav-Var/leetcode_question/tree/master/2232-adding-spaces-to-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Keshav-Var/leetcode_question/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2580-circular-sentence](https://github.com/Keshav-Var/leetcode_question/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Keshav-Var/leetcode_question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Keshav-Var/leetcode_question/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -37,6 +38,7 @@ Questions I solved on leetcode.
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Keshav-Var/leetcode_question/tree/master/1197-parsing-a-boolean-expression) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav-Var/leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Keshav-Var/leetcode_question/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +60,7 @@ Questions I solved on leetcode.
 | [1160-letter-tile-possibilities](https://github.com/Keshav-Var/leetcode_question/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Keshav-Var/leetcode_question/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Keshav-Var/leetcode_question/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Keshav-Var/leetcode_question/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Keshav-Var/leetcode_question/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
 |  |
@@ -175,6 +178,7 @@ Questions I solved on leetcode.
 ## Greedy
 |  |
 | ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Keshav-Var/leetcode_question/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2716-prime-subtraction-operation](https://github.com/Keshav-Var/leetcode_question/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
