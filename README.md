@@ -46,6 +46,7 @@ Questions I solved on leetcode.
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Keshav-Var/leetcode_question/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Keshav-Var/leetcode_question/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Keshav-Var/leetcode_question/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Keshav-Var/leetcode_question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Keshav-Var/leetcode_question/tree/master/2107-find-unique-binary-string) |
@@ -71,12 +72,14 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Keshav-Var/leetcode_question/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -91,6 +94,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Keshav-Var/leetcode_question/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -100,6 +104,7 @@ Questions I solved on leetcode.
 | [0988-flip-equivalent-binary-trees](https://github.com/Keshav-Var/leetcode_question/tree/master/0988-flip-equivalent-binary-trees) |
 | [1300-critical-connections-in-a-network](https://github.com/Keshav-Var/leetcode_question/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Array
@@ -205,6 +210,7 @@ Questions I solved on leetcode.
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Keshav-Var/leetcode_question/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Keshav-Var/leetcode_question/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
