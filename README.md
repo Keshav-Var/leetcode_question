@@ -5,6 +5,7 @@ Questions I solved on leetcode.
 ## String
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Keshav-Var/leetcode_question/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Keshav-Var/leetcode_question/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/Keshav-Var/leetcode_question/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Keshav-Var/leetcode_question/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -72,6 +73,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Keshav-Var/leetcode_question/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Keshav-Var/leetcode_question/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -94,6 +96,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Keshav-Var/leetcode_question/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Keshav-Var/leetcode_question/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -102,6 +105,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/Keshav-Var/leetcode_question/tree/master/0988-flip-equivalent-binary-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Keshav-Var/leetcode_question/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1300-critical-connections-in-a-network](https://github.com/Keshav-Var/leetcode_question/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
