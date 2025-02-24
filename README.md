@@ -78,6 +78,7 @@ Questions I solved on leetcode.
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Keshav-Var/leetcode_question/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -85,6 +86,7 @@ Questions I solved on leetcode.
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
@@ -113,6 +115,7 @@ Questions I solved on leetcode.
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Keshav-Var/leetcode_question/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Array
 |  |
@@ -132,6 +135,7 @@ Questions I solved on leetcode.
 | [2448-count-number-of-bad-pairs](https://github.com/Keshav-Var/leetcode_question/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Keshav-Var/leetcode_question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/Keshav-Var/leetcode_question/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Keshav-Var/leetcode_question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -211,6 +215,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Keshav-Var/leetcode_question/tree/master/1300-critical-connections-in-a-network) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Biconnected Component
 |  |
 | ------- |
