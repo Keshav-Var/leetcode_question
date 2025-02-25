@@ -125,6 +125,7 @@ Questions I solved on leetcode.
 | [1364-tuple-with-same-product](https://github.com/Keshav-Var/leetcode_question/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Keshav-Var/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Keshav-Var/leetcode_question/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Keshav-Var/leetcode_question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Keshav-Var/leetcode_question/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Keshav-Var/leetcode_question/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Keshav-Var/leetcode_question/tree/master/1940-maximum-xor-for-each-query) |
@@ -152,6 +153,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Keshav-Var/leetcode_question/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Keshav-Var/leetcode_question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Keshav-Var/leetcode_question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
@@ -185,6 +187,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Keshav-Var/leetcode_question/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Keshav-Var/leetcode_question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Keshav-Var/leetcode_question/tree/master/1940-maximum-xor-for-each-query) |
 ## Sliding Window
 |  |
@@ -195,6 +198,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Keshav-Var/leetcode_question/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Keshav-Var/leetcode_question/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Keshav-Var/leetcode_question/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Keshav-Var/leetcode_question/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Keshav-Var/leetcode_question/tree/master/2802-find-the-punishment-number-of-an-integer) |
