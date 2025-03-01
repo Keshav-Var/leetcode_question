@@ -35,6 +35,7 @@ Questions I solved on leetcode.
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Keshav-Var/leetcode_question/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Keshav-Var/leetcode_question/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Keshav-Var/leetcode_question/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2551-apply-operations-to-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Keshav-Var/leetcode_question/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Stack
@@ -138,6 +139,7 @@ Questions I solved on leetcode.
 | [2448-count-number-of-bad-pairs](https://github.com/Keshav-Var/leetcode_question/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Keshav-Var/leetcode_question/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Keshav-Var/leetcode_question/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2551-apply-operations-to-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/Keshav-Var/leetcode_question/tree/master/2716-prime-subtraction-operation) |
@@ -219,6 +221,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Keshav-Var/leetcode_question/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2551-apply-operations-to-an-array) |
 ## Graph
 |  |
 | ------- |
