@@ -153,6 +153,7 @@ Questions I solved on leetcode.
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Keshav-Var/leetcode_question/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Keshav-Var/leetcode_question/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/3483-alternating-groups-ii) |
 ## Trie
 |  |
 | ------- |
@@ -205,6 +206,7 @@ Questions I solved on leetcode.
 | ------- |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Keshav-Var/leetcode_question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3483-alternating-groups-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/3483-alternating-groups-ii) |
 ## Math
 |  |
 | ------- |
