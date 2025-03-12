@@ -147,6 +147,7 @@ Questions I solved on leetcode.
 | [2551-apply-operations-to-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2586-longest-square-streak-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Keshav-Var/leetcode_question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2716-prime-subtraction-operation](https://github.com/Keshav-Var/leetcode_question/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Keshav-Var/leetcode_question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Keshav-Var/leetcode_question/tree/master/3227-find-missing-and-repeated-values) |
@@ -180,6 +181,7 @@ Questions I solved on leetcode.
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2586-longest-square-streak-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Keshav-Var/leetcode_question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2716-prime-subtraction-operation](https://github.com/Keshav-Var/leetcode_question/tree/master/2716-prime-subtraction-operation) |
 ## Bit Manipulation
 |  |
@@ -197,6 +199,7 @@ Questions I solved on leetcode.
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Keshav-Var/leetcode_question/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Keshav-Var/leetcode_question/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Keshav-Var/leetcode_question/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Keshav-Var/leetcode_question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
