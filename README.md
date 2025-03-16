@@ -149,6 +149,7 @@ Questions I solved on leetcode.
 | [2564-most-profitable-path-in-a-tree](https://github.com/Keshav-Var/leetcode_question/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Keshav-Var/leetcode_question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Keshav-Var/leetcode_question/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Keshav-Var/leetcode_question/tree/master/2690-house-robber-iv) |
 | [2716-prime-subtraction-operation](https://github.com/Keshav-Var/leetcode_question/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Keshav-Var/leetcode_question/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -186,6 +187,7 @@ Questions I solved on leetcode.
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Keshav-Var/leetcode_question/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Keshav-Var/leetcode_question/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Keshav-Var/leetcode_question/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Keshav-Var/leetcode_question/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Keshav-Var/leetcode_question/tree/master/2690-house-robber-iv) |
 | [2716-prime-subtraction-operation](https://github.com/Keshav-Var/leetcode_question/tree/master/2716-prime-subtraction-operation) |
 | [3643-zero-array-transformation-ii](https://github.com/Keshav-Var/leetcode_question/tree/master/3643-zero-array-transformation-ii) |
